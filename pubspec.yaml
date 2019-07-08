@@ -9,7 +9,8 @@ environment:
   
 dependencies:
   meta: ^1.1.6
-  latlong: https://github.com/DelmarZhao/dart-latlong.git
+  latlong:
+    git: https://github.com/DelmarZhao/dart-latlong.git
   slugify2: ^0.2.0
 
 dev_dependencies:
